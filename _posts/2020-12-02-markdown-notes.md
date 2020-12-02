@@ -1,3 +1,8 @@
+---
+title: Markdown Notes
+published: true
+---
+
 **Bold** text
 
 _Italic_ text
