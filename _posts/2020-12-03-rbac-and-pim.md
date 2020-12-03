@@ -4,7 +4,7 @@ published: true
 ---
 
 
-### RBAC is role-based access control
+RBAC is role-based access control
 
 ### Identity Risks
 
@@ -19,7 +19,7 @@ published: true
 * On-prem dependency trigger
 * Elevated access trigger
 
-#### - Hackers want access to admin accounts (on-prem or cloud)
+Hackers want access to admin accounts (on-prem or cloud)
 
 
 ### Identity - Azure Services
