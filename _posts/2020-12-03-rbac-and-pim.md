@@ -15,9 +15,9 @@ published: true
 
 ### Risk Tolerance Indicators
 
-- User account number trigger
-- On-prem dependency trigger
-- Elevated access trigger
+- User account number trigger 
+- On-prem dependency trigger 
+- Elevated access trigger 
 
 - Hackers want access to admin accounts (on-prem or cloud)
 
