@@ -12,13 +12,14 @@ published: true
 * On-prem identity dependencies 
 
 ### Risk Tolerance Indicators:
+
 * User account number trigger
 * On-prem dependency trigger
 * Elevated access trigger
 
 - Hackers want access to admin accounts (on-prem or cloud)
 
-## Identity - Azure Services
+### Identity - Azure Services
 
 * Azure RBAC
 * Azure AD
@@ -26,8 +27,8 @@ published: true
 * Subscription Management
 * AAD Privileged Identity Management
 
-#### Azure RBAC - who has access and what can they do?
+### Azure RBAC - who has access and what can they do?
 
-## Have one user for VMs and another for virtual networks, etc...
+### Have one user for VMs and another for virtual networks, etc...
 
 * * *
