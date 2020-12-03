@@ -5,19 +5,20 @@ published: true
 
 ### RBAC is role-based access control
 
-### Identity Risks:
+### Identity Risks
+
 * Unauthorized access
 * Inefficiency due to multiple solutions
 * Inability for external sharing  
-* On-prem identity dependencies 
+* On-prem identity dependencies
 
-### Risk Tolerance Indicators:
+### Risk Tolerance Indicators
 
 * User account number trigger
 * On-prem dependency trigger
 * Elevated access trigger
 
-- Hackers want access to admin accounts (on-prem or cloud)
+* Hackers want access to admin accounts (on-prem or cloud)
 
 ### Identity - Azure Services
 
@@ -27,8 +28,8 @@ published: true
 * Subscription Management
 * AAD Privileged Identity Management
 
-### Azure RBAC - who has access and what can they do?
+### Azure RBAC - who has access and what can they do
 
-### Have one user for VMs and another for virtual networks, etc...
+### Have one user for VMs and another for virtual networks, etc
 
 * * *
