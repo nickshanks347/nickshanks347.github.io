@@ -2,7 +2,7 @@ title: NickShanks347's Hacker Blog
 description: "Some amazing description!"
 author:
   name: "nickshanks347"
-  email: "nick.shanks99@gmail.com"
+  email: "nick@tfsi.dev"
   url: "https://nickshanks347.github.io"
 
 baseurl: /
@@ -29,5 +29,5 @@ plugins:
 
 # Custom variables
 owner : "nickshanks347"
-year : "2020"
+year : "2021"
 github_username: nickshanks347
