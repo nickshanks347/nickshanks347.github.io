@@ -43,4 +43,4 @@ GitHubPages::Dependencies.dems.each do |gem, version|
 - nested list
 
 ## Picture below
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
