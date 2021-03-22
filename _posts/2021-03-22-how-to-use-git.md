@@ -9,10 +9,10 @@ It's a distributed source control system. Most people use it with a central serv
 ### Key concepts
 Repositories contains files, history and configurations managed by Git. 
 Three (four) states of Git:
->	1. Working directory - folder which holds project files. Files may or may not be managed by Git. Hidden folder called .git which contains the actual Git repository. The Git repository manages the Git commit history - that is all the changes that are finalized and permanently part of the Git repository.
->	2. Staging area - pre-commit holding area - referred to as the Git index. Files can be moved in and out of the staging area without impacting the Git repository.
->	3. Commit - Git repository (history) - changes which are part of the repository
->	4. Remote repository (GitHub) - last step in basic Git workflow
+1. Working directory - folder which holds project files. Files may or may not be managed by Git. Hidden folder called .git which contains the actual Git repository. The Git repository manages the Git commit history - that is all the changes that are finalized and permanently part of the Git repository.
+2. Staging area - pre-commit holding area - referred to as the Git index. Files can be moved in and out of the staging area without impacting the Git repository.
+3. Commit - Git repository (history) - changes which are part of the repository
+4. Remote repository (GitHub) - last step in basic Git workflow
 * * *
 ### Now the theory
 The last concept is the master branch. A branch is a timeline which contains your changes (commits). Git provides a default branch called master.
