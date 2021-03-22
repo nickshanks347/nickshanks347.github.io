@@ -29,8 +29,7 @@ Use `git status` to get the state of the repository. The default branch is `mast
 
 Untracked files are files in the working directory that haven't been added to Git yet. Use `git add <filename>`. Now do a `git status` and you'll see `new file: <filename>` which Git describes as changes to be committed. Use `git commit -m "<commit message>"` to commit to the local repository. If you do a `git status`, it'll show `working directory clean` as there are no pending changes.
   
-Untracked files are files in the working directory that haven't been added to Git yet. Use `git add <filename>`. Now do a `git status` and you'll see 'new file: <filename>' which Git describes as changes to be committed. 
-Use `git commit -m "<commit message>"` to commit to the local repository. If you do a `git status`, it'll show `working directory clean` as there are no pending changes.
+Untracked files are files in the working directory that haven't been added to Git yet. Use `git add <filename>`. Now do a `git status` and you'll see `new file: <filename>` which Git describes as changes to be committed. Use `git commit -m "<commit message>"` to commit to the local repository. If you do a `git status`, it'll show `working directory clean` as there are no pending changes.
 
 To push changes to the remote repository (from local) type `git push origin master`. This version of the git push command sets which remote repository to push to, and which branch to push. 
 
