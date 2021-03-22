@@ -13,6 +13,7 @@ Three (four) states of Git:
 2. Staging area - pre-commit holding area - referred to as the Git index. Files can be moved in and out of the staging area without impacting the Git repository.
 3. Commit - Git repository (history) - changes which are part of the repository
 4. Remote repository (GitHub) - last step in basic Git workflow
+
 * * *
 ### Now the theory
 The last concept is the master branch. A branch is a timeline which contains your changes (commits). Git provides a default branch called master.
